@@ -1,14 +1,61 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "albums": [
+    {
+      "id": 1,
+      "artist_id": 1,
+      "title": "Abbey Road",
+      "year": 1969
+    },
+    {
+      "id": 2,
+      "artist_id": 1,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967
+    },
+    {
+      "id": 3,
+      "artist_id": 2,
+      "title": "The Wall",
+      "year": 1979
+    },
+    {
+      "id": 4,
+      "artist_id": 2,
+      "title": "The Dark Side of the Moon",
+      "year": 1973
+    },
+    {
+      "id": 5,
+      "artist_id": 3,
+      "title": "Thriller",
+      "year": 1982
+    },
+    {
+      "id": 6,
+      "artist_id": 3,
+      "title": "Bad",
+      "year": 1987
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "artists": [
+    {
+      "id": 1,
+      "name": "The Beatles",
+      "genre": "Rock",
+      "formation_year": 1960
+    },
+    {
+      "id": 2,
+      "name": "Pink Floyd",
+      "genre": "Progressive Rock",
+      "formation_year": 1965
+    },
+    {
+      "id": 3,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "birth_year": 1958,
+      "death_year": 2009
+    }
+  ]
 }
