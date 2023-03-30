@@ -2,37 +2,37 @@
   "albums": [
     {
       "id": 1,
-      "artist_id": 1,
+      "artist": "The Beatles",
       "title": "Abbey Road",
       "year": 1969
     },
     {
       "id": 2,
-      "artist_id": 1,
+      "artist": "The Beatles",
       "title": "Sgt. Pepper's Lonely Hearts Club Band",
       "year": 1967
     },
     {
       "id": 3,
-      "artist_id": 2,
+      "artist": "Pink Floyd",
       "title": "The Wall",
       "year": 1979
     },
     {
       "id": 4,
-      "artist_id": 2,
+      "artist": "Pink Floyd",
       "title": "The Dark Side of the Moon",
       "year": 1973
     },
     {
       "id": 5,
-      "artist_id": 3,
+      "artist": "Michael Jackson",
       "title": "Thriller",
       "year": 1982
     },
     {
       "id": 6,
-      "artist_id": 3,
+      "artist": "Michael Jackson",
       "title": "Bad",
       "year": 1987
     }
