@@ -1,4 +1,9 @@
 {
+  "api":{
+    "user":{
+    "name":"test"
+    }
+  },
   "albums": [
     {
       "id": 1,
